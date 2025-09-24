@@ -5,6 +5,8 @@
 **Platform:** Xojo Desktop Application
 **Contest Entry:** September 2025 Xojo Programming Contest
 
+<img width="1392" height="861" alt="Digital Escape Room" src="https://github.com/user-attachments/assets/311e0cea-8160-4239-94a8-a07d392413ca" />
+
 ## Overview
 
 Digital Escape Room is an immersive puzzle adventure where players must solve a series of interconnected puzzles to escape from a locked room. Using point-and-click mechanics, players discover clues, collect items, and unravel mysteries in a race against time.
